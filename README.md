@@ -1,11 +1,16 @@
-![Image](https://github.com/user-attachments/assets/607fb89e-618f-4b53-94a0-0f6386973b7c)
 
-940-9f0c-49c6-99f0-211ffa26d20b)
-<h1 align="center">Hi 👋, I'm Mohemmad Nuwahf</h1>
-<h3 align="center">A Passionate Python Backend & Frontend Developer from Colombo</h3>
-<img align="right" alt="Coding" width="400" src"https://tenor.com/c5X2XxXuQhc.gif">
+<img src="https://github.com/user-attachments/assets/6c4560a8-e1a3-48ed-847b-5f1ae2dec319" alt="Banner" width="100%" height="200" />
 
-<p align="left">![Image](https://github.com/user-attachments/assets/5e9be940-9f0c-49c6-99f0-211ffa26d20b)</p>
+<h1 align="center">
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="35" style="display:inline-block; vertical-align:middle;" alt="👋">, I'm Mohemmad Nuwahf
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75000&center=true&vCenter=true&width=435&lines=A+Passionate+Python+Backend+%26+Frontend+Developer+from+Colombo;Loves+to+build+clean+UIs+%26+powerful+APIs" alt="Typing SVG" />
+</h3>
+
+<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/466a1195-55ad-45ae-856e-17faf24e4146" />
+
 
 - 🌱 I’m currently learning **IT HND Software Engineer + Python Developer + Fullstack**
 
@@ -30,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuwahf324&show_icons=true&locale=en" alt="nuwahf324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwahf324&" alt="nuwahf324" /></p>
+
