@@ -1,56 +1,32 @@
-<h1 align="center">Hello 👋 I'm Nuwahf</h1>
+![Image](https://github.com/user-attachments/assets/607fb89e-618f-4b53-94a0-0f6386973b7c)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Code+with+passion.;Create+with+purpose.;Grow+with+learning.;Conquer+with+Tech!" alt="Typing SVG" />
+940-9f0c-49c6-99f0-211ffa26d20b)
+<h1 align="center">Hi 👋, I'm Mohemmad Nuwahf</h1>
+<h3 align="center">A Passionate Python Backend & Frontend Developer from Colombo</h3>
+<img align="right" alt="Coding" width="400" src"https://tenor.com/c5X2XxXuQhc.gif">
+
+<p align="left">![Image](https://github.com/user-attachments/assets/5e9be940-9f0c-49c6-99f0-211ffa26d20b)</p>
+
+- 🌱 I’m currently learning **IT HND Software Engineer + Python Developer + Fullstack**
+
+- 💬 Ask me about **Python backend development (Flask, Django) REST API design & implementation Frontend development (HTML, CSS, JS, React) Fullstack web apps MySQL & MongoDB database integration Git & GitHub version control Automation scripts using Python Software Engineering concepts (HND level) How to deploy projects (Heroku, Vercel, etc.) Freelancing tips for beginners**
+
+- 📫 How to reach me **www.linkedin.com/in/mohammed-nuwaf-b73a43343**
+
+- ⚡ Fun fact **I AM FUNNY**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-nuwaf-b73a43343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammed-nuwaf-b73a43343" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mr_black4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr_black4321" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohemmad nuwahf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohemmad nuwahf" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### 🙋‍♂️ About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuwahf324&show_icons=true&locale=en&layout=compact" alt="nuwahf324" /></p>
 
-- 🎓 Software Engineering Student  
-- 💻 Passionate MERN Stack Developer  
-- 🧠 Constant Learner | Project Lover  
-- 🌍 Based in Sri Lanka  
-- 📬 Reach me at: **nuwahfdev@gmail.com**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuwahf324&show_icons=true&locale=en" alt="nuwahf324" /></p>
 
----
-
-### 🛠️ Technologies I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,php,java,mysql,git,github,vscode,figma,linux" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:nuwahfdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-INSTA-ID"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.com/users/YOUR-ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuwahf&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwahf&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### 🕹️ Fun Touch
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SUen3zQBJjQ0y/giphy.gif" width="180px" />
-</p>
-
-<p align="center">
-  🚀 Let's build something amazing together!
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuwahf324&" alt="nuwahf324" /></p>
