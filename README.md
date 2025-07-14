@@ -23,9 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-nuwaf-b73a43343" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC9jXV7rKpjPvPw0mKz9vaYg" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube Channel" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mr_black4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr_black4321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohemmad nuwahf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohemmad nuwahf" height="30" width="40" /></a>
 </p>
 
